@@ -12,7 +12,7 @@
 🟠 I'm a freelance video editor for Iloilo Prima Galaw. <br />
 🟠 When it comes to coding I have basic knowledge when it comes to C, C++, 
     as well as HTML and CSS. <br />
-🟠 When it comes to software I have knowlede to multiple Adobe CC apps like
+🟠 When it comes to software I have knowledge to multiple Adobe CC apps like
     Preimiere Pro, Photoshop, and Lightroom to name a few. <br />
 
 ### Currently Learning About:😎
