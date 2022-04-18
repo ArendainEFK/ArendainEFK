@@ -1,26 +1,23 @@
 # Hello! Hola! Bonjour! Salve!
 
-### About Me🥱
+### About The Design
 
-🟠 I'm Ed Francis Kyle Arendain! I'm currently studying Computer Science
-    at West Visayas State University and currently in my freshman year also.
-    I like anything related to tech from the Nike Mag from Back from the Future,
-    up to today's Tesla EVs. <br />
+🟠 While designing my Mandala Art I was mostly inspired by
+    the more traditional designs where shapes and patterns
+    are being repeated with little changes.<br />
 
-### Things I Do and Know I guess?🤔
+🟠 In my design I mostly used the turtle circle command while
+    designing the flower, and also the division between the,
+    patterns, also made use of functions, as well as the
+    extent attribute of the circle command. However, I couldn't
+    really fit the whole mandala art because I didn't know how.<br />
+    
+🟠 I did not use any color because again I wanted to stick
+    with the traditional aesthetic of the mandala art which
+    is mostly monochromatic, or black and white.<br />
 
-🟠 I'm a freelance video editor for Iloilo Prima Galaw. <br />
-🟠 When it comes to coding I have basic knowledge when it comes to C, C++, 
-    as well as HTML and CSS. <br />
-🟠 When it comes to software I have knowledge to multiple Adobe CC apps like
-    Preimiere Pro, Photoshop, and Lightroom to name a few. <br />
+### Reference Used
 
-### Currently Learning About:😎
-
-🟠 Java, Python, as well as many other things that would take too long to mention. <br />
-🟠 DaVinci Resolve and After Effects <br />
-🟠 NFTs (How to get rich in this day and age basically) <br />
-
-
-### How to find me? 🔍
-🟠 [School Email](mailto:edfranciskyle.arendain@wvsu.edu.ph)
+🟠 Youtube
+🟠 Class Videos/Notes
+🟠 W3Schools :D
